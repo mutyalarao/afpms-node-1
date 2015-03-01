@@ -1,0 +1,10 @@
+{
+  "name": "AFPMS"
+  ,"version": "0.0.1"
+  ,"dependencies":
+    {"mysql":"*"
+     ,"express":"*"
+     ,"ejs":"*"
+     ,"mime":"*"
+    }
+}
